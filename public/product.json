@@ -1,0 +1,44 @@
+{
+  "Books": [
+    {
+      "title": "tales by moonligth",
+      "genre": "drama",
+      "description": "short african tales"
+    },
+    {
+      "title": "topic in web development",
+      "genre": "ICT",
+      "description": "history of web development"
+    },
+    {
+      "title": "peace by radio",
+      "genre": "interviews",
+      "description": "story telling on how information disemination on radio can help peace process"
+    },
+    {
+      "title": "the legend",
+      "genre": "drama",
+      "description": "tales of african legends"
+    },
+    {
+      "title": "islam the path",
+      "genre": "religion",
+      "description": "tale of the expoit of the muslims forth runners"
+    },
+    {
+      "title": "mentor with wisdom",
+      "genre": "religion",
+      "description": "familiar influence on their ward"
+    },
+    {
+      "title": "magic made",
+      "genre": "drama",
+      "description": "science and magic comparism through ages"
+    },
+    {
+      "title": "the abbassid",
+      "genre": "history",
+      "description": "islamic history"
+    }
+  ]
+}
